@@ -1,4 +1,4 @@
-# **CalX_apk**
+# **CalX**
 
 ## **Overview**
 
@@ -21,11 +21,10 @@
 
 
 
-    Go to the CalX.apk file to enjoy the app (https://github.com/rjkrishna29/CalX_apk/blob/main/CalX.apk)
 
-Usage
+## **Usage**
 
-    Explain how to use the calculator app. Provide examples if needed.
+    1. ### Performing Arithmatic Operation
 
 Development
 
