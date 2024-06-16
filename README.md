@@ -24,41 +24,30 @@
 
 ## **Usage**
 ### 1. Performing Arithmatic Operation
-       - To perform addition, enter the first number, press the + button, then enter the second number and press = to see the result.
-       - Subtraction, multiplication, and division follow a similar process using −, ×, and ÷ respectively.
-       - Percentage operation can be performed after any digit
-       - ( and ) also can be used to for calculation
-       - To clear all AC button is there
-       - There is a backspace button in the screen
-       - Copy button to copy the result 
-       - The input and result also can be copied by long click
+- To perform addition, enter the first number, press the + button, then enter the second number and press = to see the result.
+- Subtraction, multiplication, and division follow a similar process using −, ×, and ÷ respectively.
+- Percentage operation can be performed after any digit
+- ( and ) also can be used to for calculation
+- To clear all AC button is there
+- There is a backspace button in the screen
+- Copy button to copy the result 
+- The input and result also can be copied by long click
 ### 2. More Action Button
       There is a widget button for more actions. There are multiple other operations
-### 3. Number Conversion      
-      
+### 3. Number Conversion
+- It comes under more action page
+- User can click on Bin(Binary), Dec(decimal), Oct(Octal), Hex(Hexadecimal) to enter number in that type
+- Click equal button to get the converted values
+- A Sign button is there (+/-)
+- Copy button to copy the value in each in number system type
+### 4. Length an Area Conversion
+- Choose the appropriate unit.
+- Copy button to copy the input and output togeather
+- User can copy by clicking on the text
+    
 
-Development
+## **Development**
+    I have used android studio to build this app. And used java for the backend.
+    
+ 
 
-    If applicable, provide information about the development of the app.
-    Include technologies used, programming languages, frameworks, etc.
-
-Support
-
-    Provide information on how users can get support if they encounter issues.
-    Include contact information or links to support channels.
-
-Contributing
-
-    If you allow contributions from other developers, explain how they can contribute.
-
-License
-
-    Specify the licensing terms of your app.
-
-Acknowledgments
-
-    Acknowledge any individuals or organizations that contributed to the development of the app.
-
-Additional Information
-
-    Any other relevant information about your calculator app.
