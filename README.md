@@ -8,12 +8,12 @@
     
 ## **Features**
 
-    - Basic Arithmetic Operations: Perform addition, subtraction, multiplication, and division seamlessly.
-    - A button to Copy the answer and use it any where
-    - Available in both light and dark mode
-    - Monochromatic icon is also there
-    - Number system converter (Convert numbers seamlessly between Binary, Decimal, Octal, Hexadecimal)
-    - Length, Area converters are also available with accurate value
+- Basic Arithmetic Operations: Perform addition, subtraction, multiplication, and division seamlessly.
+- A button to Copy the answer and use it any where
+- Available in both light and dark mode
+- Monochromatic icon is also there
+- Number system converter (Convert numbers seamlessly between Binary, Decimal, Octal, Hexadecimal)
+- Length, Area converters are also available with accurate value
     
 ## **Screenshots**
 
