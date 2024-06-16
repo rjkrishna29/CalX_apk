@@ -4,7 +4,7 @@
 
     The Calculator App is a user-friendly tool designed to provide quick and efficient calculations on the go. It 
     offers a comprehensive set of features suitable for both basic arithmetic and advanced mathematical functions. 
-    Whether you're a student needing simple calculations <!-- or a professional requiring scientific functions -->, our app 
+    Whether you're a student needing simple calculations <!-- This content will not appear in the rendered Markdown --> <!-- or a professional requiring scientific functions -->, our app 
     aims to meet your needs with precision and ease of use.
     
 ## **Features**
