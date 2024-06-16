@@ -4,23 +4,24 @@
 
     The Calculator App is a user-friendly tool designed to provide quick and efficient calculations on the go. It 
     offers a comprehensive set of features suitable for both basic arithmetic and advanced mathematical functions. 
-    Whether you're a student needing simple calculations <!-- This content will not appear in the rendered Markdown --> <!-- or a professional requiring scientific functions -->, our app 
-    aims to meet your needs with precision and ease of use.
+    our app aims to meet your needs with precision and ease of use.
     
 ## **Features**
 
     - Basic Arithmetic Operations: Perform addition, subtraction, multiplication, and division seamlessly.
-    Scientific Functions: Includes trigonometric functions (sin, cos, tan), logarithms, exponentiation, and more.
-    Memory Functions: Store and recall previous calculations.
-    Customization: Choose from a variety of themes to personalize your calculator interface.
-
+    - A button to Copy the answer and use it any where
+    - Available in both light and dark mode
+    - Monochromatic icon is also there
+    - Number system converter (Convert numbers seamlessly between Binary, Decimal, Octal, Hexadecimal)
+    - Length, Area converters are also available with accurate value
+    
 ## **Screenshots**
 
 
 
 
 
-    Go to the CalX.apk file to enjoy the app
+    Go to the CalX.apk file to enjoy the app (https://github.com/rjkrishna29/CalX_apk/blob/main/CalX.apk)
 
 Usage
 
