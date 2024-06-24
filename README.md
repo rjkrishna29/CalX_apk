@@ -16,11 +16,15 @@
 - Length, Area converters are also available with accurate value
     
 ## **Screenshots**
-![WhatsApp Image 2024-06-17 at 03 00 20_0e950b48](https://github.com/rjkrishna29/CalX_apk/assets/170453157/00b7cf15-97e9-4349-a41c-816fbbd5aff8)
+![WhatsApp Image 2024-06-24 at 19 52 49_6c33901f](https://github.com/rjkrishna29/CalX_apk/assets/170453157/e7509142-c4bc-4073-b572-0619534c1be5)
 
-![WhatsApp Image 2024-06-17 at 03 00 24_2ac0a1cb](https://github.com/rjkrishna29/CalX_apk/assets/170453157/db46f644-0257-4e9a-a34a-143ce1bbf673)
+![WhatsApp Image 2024-06-24 at 19 52 50_a6284f36](https://github.com/rjkrishna29/CalX_apk/assets/170453157/cdbb389b-b08e-47f9-a80d-6c1475085998)
 
-![WhatsApp Image 2024-06-17 at 03 00 21_28a89483](https://github.com/rjkrishna29/CalX_apk/assets/170453157/50ed72de-e37b-497d-939e-31cf376a9e88)
+![WhatsApp Image 2024-06-24 at 19 52 49_fd161f36](https://github.com/rjkrishna29/CalX_apk/assets/170453157/5f683f01-6bd1-4203-8fd4-c7dda168d6d5)
+
+![WhatsApp Image 2024-06-24 at 19 52 50_2bf7bd2a](https://github.com/rjkrishna29/CalX_apk/assets/170453157/4c19b4ec-7aab-4581-86b9-596ac3a3e8c7)
+
+![WhatsApp Image 2024-06-24 at 19 52 50_6368f1e9](https://github.com/rjkrishna29/CalX_apk/assets/170453157/0b924961-1c39-459a-86e4-092ab0a0e0aa)
 
 ![WhatsApp Image 2024-06-17 at 03 00 21_53050ae7](https://github.com/rjkrishna29/CalX_apk/assets/170453157/b96b0fbd-a1b4-4596-9ac8-69d086cf07db)
 
