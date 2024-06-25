@@ -2,18 +2,17 @@
 
 ## **Overview**
 
-    The Calculator App is a user-friendly tool designed to provide quick and efficient calculations on the go. It 
-    offers a comprehensive set of features suitable for both basic arithmetic and advanced mathematical functions. 
-    our app aims to meet your needs with precision and ease of use.
+The Calculator App is a user-friendly tool designed for quick and efficient calculations on the go. It offers a comprehensive set of features suitable for both basic arithmetic and advanced mathematical functions, aiming to meet your needs with precision and ease of use. The app requires Android version 9 or higher to operate.
     
 ## **Features**
 
 - Basic Arithmetic Operations: Perform addition, subtraction, multiplication, and division seamlessly.
-- A button to Copy the answer and use it any where
-- Available in both light and dark mode
-- Monochromatic icon is also there
-- Number system converter (Convert numbers seamlessly between Binary, Decimal, Octal, Hexadecimal)
-- Length, Area converters are also available with accurate value
+- Copy Functionality: Use the Copy button to easily copy the result for use anywhere.
+- History View: Users can view the history of recent calculations.
+- Light and Dark Modes: Switch between light and dark modes for your preferred visual experience.
+- Monochromatic Icon: A monochromatic icon is available for a simplified aesthetic.
+- Number System Converter: Convert numbers seamlessly between binary, decimal, octal, and hexadecimal.
+- Length and Area Converters: Convert measurements for length and area with accurate values.
     
 ## **Screenshots**
 ![WhatsApp Image 2024-06-24 at 19 52 49_6c33901f](https://github.com/rjkrishna29/CalX_apk/assets/170453157/e7509142-c4bc-4073-b572-0619534c1be5)
@@ -48,29 +47,30 @@
 ## **Usage**
 ### 1. Performing Arithmatic Operation
 - To perform addition, enter the first number, press the + button, then enter the second number and press = to see the result.
-- Subtraction, multiplication, and division follow a similar process using −, ×, and ÷ respectively.
-- Percentage operation can be performed after any digit
-- ( and ) also can be used to for calculation
-- To clear all AC button is there
-- There is a backspace button in the screen
-- Copy button to copy the result 
-- The input and result also can be copied by long click
+- For subtraction, multiplication, and division, follow a similar process using −, ×, and ÷ respectively.
+- The percentage operation can be performed after entering any number.
+- Parentheses ( ) can be used for grouping calculations.
+- To clear all inputs, use the AC button.
+- There is a backspace button to delete the last entered digit.
+- Use the Copy button to copy the result.
+- You can also copy the input and result by long-clicking on them.
+- Click on the History button to view the recent 10 operations performed.
 ### 2. More Action Button
-      There is a widget button for more actions. There are multiple other operations
+Access additional functionalities through the widget button, offering multiple other operations for advanced calculations.
 ### 3. Number Conversion
-- It comes under more action page
-- User can click on Bin(Binary), Dec(decimal), Oct(Octal), Hex(Hexadecimal) to enter number in that type
-- Click equal button to get the converted values
-- A Sign button is there (+/-)
-- Copy button to copy the value in each in number system type
+- **More Actions Page:** These features are available under the "More Actions" page.
+- **Number System Entry:** Users can click on Bin (Binary), Dec (Decimal), Oct (Octal), or Hex (Hexadecimal) to enter numbers in their respective formats.
+- **Conversion Results:** Click the equal button to see the converted values in different number systems.
+- **Sign Button:** A Sign button (+/-) allows you to toggle the sign of the number.
+- **Copy Button for Number Systems:** Use the Copy button to copy values in each number system type.
 ### 4. Length an Area Conversion
-- Choose the appropriate unit.
-- Copy button to copy the input and output togeather
-- User can copy by clicking on the text
+- **Choose the Appropriate Unit:** Select the appropriate unit.
+- **Copy Button:** Use the Copy button to copy the input and output together.
+- **User Copy Function:** Users can copy by clicking on the text.
     
 
 ## **Development**
-    I have used android studio to build this app. And used java for the backend.
+I built this app using Android Studio and used Java for the backend.
     
  
 
